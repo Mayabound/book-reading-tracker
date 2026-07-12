@@ -1,6 +1,3 @@
-RA2311056030015
-DSA
-PROJ BY - ANUBHAV KUMAR YADAV 
 Book Reading Tracker
 A full-stack web application to track your reading list — add books, mark them as read, and manage your personal library.
 Tech Stack
